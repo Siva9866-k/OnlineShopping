@@ -1,4 +1,4 @@
-# React Bootcamp Project
+# React E-Commerce Project
 
 A polished online shopping UI built with React and Vite. This project includes user registration, login validation, protected dashboard routes, cart functionality, a dummy checkout flow, and responsive product browsing.
 
