@@ -34,16 +34,6 @@ A polished online shopping UI built with React and Vite. This project includes u
 
 ## Screenshots
 
-Add your screenshots in `reactBootcampProject-main\src\assets` and reference them here:
-- `src/assets/home.png`
-- `src/assets/login.png`
-- `src/assets/register.png`
-- `src/assets/products.png`
-- `src/assets/cart.png`
-- `src/assets/payment.png`
-
-Example markdown:
-
 ```md
 ![Home Page](./e-commerce_project/src/assets/home.png)
 ![Login Page](e-commerce_project/src/assets/login.png)
