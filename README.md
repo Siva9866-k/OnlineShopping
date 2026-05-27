@@ -45,12 +45,12 @@ Add your screenshots in `reactBootcampProject-main\src\assets` and reference the
 Example markdown:
 
 ```md
-![Home Page](src/assets/home.png)
-![Login Page](src/assets/login.png)
-![Register Page](src/assets/register.png)
-![Dashboard](src/assets/products.png)
-![Cart Page](src/assets/cart.png)
-![Payment Page](src/assets/payment.png)
+![Home Page](e-commerce_project/src/assets/home.png)
+![Login Page](e-commerce_project/src/assets/login.png)
+![Register Page](e-commerce_project/src/assets/register.png)
+![Dashboard](e-commerce_project/src/assets/products.png)
+![Cart Page](e-commerce_project/src/assets/cart.png)
+![Payment Page](e-commerce_project/src/assets/payment.png)
 ```
 
 ## Installation
