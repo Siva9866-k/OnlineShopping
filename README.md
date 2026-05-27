@@ -35,12 +35,12 @@ A polished online shopping UI built with React and Vite. This project includes u
 ## Screenshots
 
 
-![Home Page](../screenshots/home.png)
-![Login Page](../screenshots/login.png)
-![Register Page](../screenshots/register.png)
-![Dashboard](../screenshots/products.png)
-![Cart Page](../screenshots/cart.png)
-![Payment Page](/screenshots/payment.png)
+![Home Page](./screenshots/home.png)
+![Login Page](./screenshots/login.png)
+![Register Page](./screenshots/register.png)
+![Dashboard](./screenshots/products.png)
+![Cart Page](./screenshots/cart.png)
+![Payment Page](./screenshots/payment.png)
 
 
 ## Installation
