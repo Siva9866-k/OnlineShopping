@@ -45,7 +45,7 @@ Add your screenshots in `reactBootcampProject-main\src\assets` and reference the
 Example markdown:
 
 ```md
-![Home Page](e-commerce_project/src/assets/home.png)
+![Home Page](./e-commerce_project/src/assets/home.png)
 ![Login Page](e-commerce_project/src/assets/login.png)
 ![Register Page](e-commerce_project/src/assets/register.png)
 ![Dashboard](e-commerce_project/src/assets/products.png)
